@@ -1,0 +1,4 @@
+Grade: Normal  Price: 10  Amount: 10000
+
+Grade: Premium  Price: 20  Amount: 5000
+
